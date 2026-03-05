@@ -1,0 +1,1 @@
+My plan is to try to understand WebGPU's API and teach it through javascript comments
